@@ -1,10 +1,10 @@
 require("dotenv").config();
 
 var options = {
-  host: "ult10.falix.gg",
+  host: "zyphoriasmp.falix.dev",
   port: 38822, // default minecraft server port
-  username: "Alv-BOT",
-  version: "1.17.1"
+  username: "System",
+  version: "1.21.11"
 };
 
 module.exports = { options };
